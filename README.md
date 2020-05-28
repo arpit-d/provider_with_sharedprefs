@@ -1,4 +1,4 @@
-# time_slot_picker
+# provider_with_sharedprefs
 
 A new Flutter project.
 
