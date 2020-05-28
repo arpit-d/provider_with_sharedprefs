@@ -1,6 +1,6 @@
 # provider_with_sharedprefs
 
-A new Flutter project.
+Example of how to use Android SharedPreferences with provider in Flutter 
 
 ## Getting Started
 
